@@ -17,3 +17,8 @@ Error: module.dynamodb-table-test.aws_cloudwatch_metric_alarm.cloudwatch_alarm_r
 ## Issue Tracking
 
 * https://github.com/hashicorp/terraform/issues/17837
+* https://github.com/hashicorp/terraform/issues/16916
+* https://github.com/hashicorp/terraform/issues/16831
+* https://github.com/terraform-providers/terraform-provider-aws/issues/5037#issuecomment-401836797
+* https://github.com/terraform-providers/terraform-provider-aws/issues/1066#issuecomment-402218437
+* https://github.com/terraform-providers/terraform-provider-aws/issues/5315#issuecomment-407744760
